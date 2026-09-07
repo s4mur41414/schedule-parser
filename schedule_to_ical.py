@@ -78,7 +78,11 @@ def calculate_week_ticks(weeks_to_parse: int) -> List[int]:
         current_monday = REFERENCE_DATE
 
     days_diff = (current_monday - REFERENCE_DATE).days
-    start_tick = REFERENCE_TICK + (days_diff * TICKS_PER_WEEK)
+    
+    # ИСПРАВЛЕНИЕ: переводим дни в недели, чтобы корректно умножить на TICKS_PER_WEEK
+    weeks_diff = days_diff // 7 
+    
+    start_tick = REFERENCE_TICK + (weeks_diff * TICKS_PER_WEEK)
 
     logger.info(f"Расчет тиков: стартовая неделя {current_monday}, начальный тик {start_tick}")
 
