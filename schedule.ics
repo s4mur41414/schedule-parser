@@ -2,220 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261112T133000Z
-LOCATION:к.16 102 | ЕГУНОВА А.И.
-DTSTART:20261112T120000Z
-SUMMARY:Сети и телекоммуникации
-UID:cc6682ae-4d47-4e11-aefe-e136bf17152b@cc66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ФЕДОСИН СЕРГЕЙ АЛЕКСЕЕВИЧ\nГруппа: 441-2
-DTEND:20261027T133000Z
-LOCATION:к.16 104 | ФЕДОСИН С.А.
-DTSTART:20261027T120000Z
-SUMMARY:Программная инженерия
-UID:8e13d892-aaf5-45f4-8f62-bcdf2b41b501@8e13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261021T133000Z
-LOCATION:к.16 102 | ТАЛАНОВ В.М.
-DTSTART:20261021T120000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:4316327b-06a0-4275-9f25-5a438d447b70@4316.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
-DTEND:20261102T100500Z
-LOCATION:к.16 401 | УСМАНОВ Б.В.
-DTSTART:20261102T083500Z
-SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
-UID:6eda2322-d2c8-455d-a8c8-e58ae0201050@6eda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261028T151000Z
-LOCATION:к.16 502 | ТАЛАНОВ В.М.
-DTSTART:20261028T134000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:b4dd2a0c-cd02-44a2-8e34-58e2f1f64f53@b4dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261111T115000Z
-LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
-DTSTART:20261111T102000Z
-SUMMARY:Экономика и управление
-UID:95f8c09c-bbae-4123-8bfc-27daf9230ab0@95f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
-DTEND:20261105T115000Z
-LOCATION:к.16 106 | ЛАДАНОВА Е.О.
-DTSTART:20261105T102000Z
-SUMMARY:Системное программное обеспечение
-UID:e0d2996b-363f-480c-929f-ded1dbec2906@e0d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261020T115000Z
-LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
-DTSTART:20261020T102000Z
-SUMMARY:Экономика и управление
-UID:e3603a0d-5a47-4e21-b288-bcb238ae0101@e360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261022T100500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261022T083500Z
-SUMMARY:Программная инженерия
-UID:e2986617-5616-4b00-adf5-1b9534524a11@e298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261103T115000Z
-LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
-DTSTART:20261103T102000Z
-SUMMARY:Экономика и управление
-UID:21af3281-1141-4cb0-aee6-d4d506e3827d@21af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
-DTEND:20261019T100500Z
-LOCATION:к.16 401 | УСМАНОВ Б.В.
-DTSTART:20261019T083500Z
-SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
-UID:0faed597-0d9a-4192-8758-b9037e2cd812@0fae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261021T151000Z
-LOCATION:к.16 502 | ТАЛАНОВ В.М.
-DTSTART:20261021T134000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:8bc789f3-fd42-4f84-91dd-5fae3e118110@8bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
-DTEND:20261023T133000Z
-LOCATION:к.16 102 | ЛАРИН М.Г.
-DTSTART:20261023T120000Z
-SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
-UID:7c9f0dd3-7e4c-40fb-b83a-d49f18fb6ee6@7c9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261023T151000Z
-LOCATION:к.16 401 | ЕГУНОВА А.И.
-DTSTART:20261023T134000Z
-SUMMARY:Сети и телекоммуникации
-UID:46781a33-1929-4027-b326-9af96f1ad157@4678.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
 DTEND:20261111T151000Z
 LOCATION:к.16 502 | ТАЛАНОВ В.М.
 DTSTART:20261111T134000Z
 SUMMARY:Администрирование систем управления базами данных
-UID:9f5c02de-6701-47a6-b22f-604dc3b4623e@9f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261104T151000Z
-LOCATION:к.16 502 | ТАЛАНОВ В.М.
-DTSTART:20261104T134000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:b70dae2c-1b9d-4e4d-bb19-32be85655e01@b70d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261112T100500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261112T083500Z
-SUMMARY:Программная инженерия
-UID:8fac7547-d93e-4dd8-93a6-40e2860f08b9@8fac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
-DTEND:20261106T133000Z
-LOCATION:к.16 102 | ЛАРИН М.Г.
-DTSTART:20261106T120000Z
-SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
-UID:75248b95-7ced-46b0-8a77-f05f36bd247a@7524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261022T133000Z
-LOCATION:к.16 102 | ЕГУНОВА А.И.
-DTSTART:20261022T120000Z
-SUMMARY:Сети и телекоммуникации
-UID:2a75cd22-d0a8-4023-a66a-251bb9128fce@2a75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261105T100500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261105T083500Z
-SUMMARY:Программная инженерия
-UID:b909d98d-bdcb-4ca6-9e2c-cc257fbd543c@b909.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261105T151000Z
-LOCATION:к.16 102 | ЕГУНОВА А.И.
-DTSTART:20261105T134000Z
-SUMMARY:Сети и телекоммуникации
-UID:fb9d2a09-d811-4dfb-b2e1-6f42e68a9630@fb9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261112T081500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261112T064500Z
-SUMMARY:Системное программное обеспечение
-UID:d0ced72f-d6f8-44c4-aa9a-3d946839db2a@d0ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261028T133000Z
-LOCATION:к.16 102 | ТАЛАНОВ В.М.
-DTSTART:20261028T120000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:1a4079e5-5dc9-4fff-b3f6-d917f3558d99@1a40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261028T115000Z
-LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
-DTSTART:20261028T102000Z
-SUMMARY:Экономика и управление
-UID:8c6fc6d8-5983-4f57-894a-513b91606eac@8c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261104T133000Z
-LOCATION:к.16 102 | ТАЛАНОВ В.М.
-DTSTART:20261104T120000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:b40b9038-22f0-40c7-b8ef-283b4a945dd9@b40b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
-DTEND:20261106T115000Z
-LOCATION:к.16 302 | ЛАРИН М.Г.
-DTSTART:20261106T102000Z
-SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
-UID:abb26366-b497-404e-916a-9b8f683e5c5e@abb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261029T081500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261029T064500Z
-SUMMARY:Системное программное обеспечение
-UID:4e538612-f53c-4b3d-86ae-e1c6bd3b9759@4e53.org
+UID:5cb87898-dbc9-42d3-ac17-10787d895bb2@5cb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
@@ -223,63 +15,7 @@ DTEND:20261029T151000Z
 LOCATION:к.16 102 | ЕГУНОВА А.И.
 DTSTART:20261029T134000Z
 SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
-UID:a6690c01-3789-4710-8b1e-50faa815b0cc@a669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
-DTEND:20261109T100500Z
-LOCATION:к.16 401 | УСМАНОВ Б.В.
-DTSTART:20261109T083500Z
-SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
-UID:db0cb830-82eb-4f1c-bfe8-5f3337499ebe@db0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261027T115000Z
-LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
-DTSTART:20261027T102000Z
-SUMMARY:Экономика и управление
-UID:70add7a6-70ec-4147-91f1-76a09cab056e@70ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
-DTEND:20261112T115000Z
-LOCATION:к.16 106 | ЛАДАНОВА Е.О.
-DTSTART:20261112T102000Z
-SUMMARY:Системное программное обеспечение
-UID:c53c1f1f-abe2-42c3-bfd1-c977635f8643@c53c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
-DTEND:20261023T115000Z
-LOCATION:к.16 302 | ЛАРИН М.Г.
-DTSTART:20261023T102000Z
-SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
-UID:564e0067-f833-4790-af23-f912246123aa@564e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
-DTEND:20261022T115000Z
-LOCATION:к.16 106 | ЛАДАНОВА Е.О.
-DTSTART:20261022T102000Z
-SUMMARY:Системное программное обеспечение
-UID:a3054226-6019-4457-ad72-ae424616d988@a305.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ФЕДОСИН СЕРГЕЙ АЛЕКСЕЕВИЧ\nГруппа: 441-2
-DTEND:20261110T133000Z
-LOCATION:к.16 104 | ФЕДОСИН С.А.
-DTSTART:20261110T120000Z
-SUMMARY:Программная инженерия
-UID:39d1c60d-60d0-42fe-8489-d81a56c897fd@39d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261113T151000Z
-LOCATION:к.16 401 | ЕГУНОВА А.И.
-DTSTART:20261113T134000Z
-SUMMARY:Сети и телекоммуникации
-UID:55077364-b1ae-4847-9a37-72e430fe00fe@5507.org
+UID:6b636950-e544-4f67-b9d3-6c4155ac2f00@6b63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
@@ -287,127 +23,7 @@ DTEND:20261112T151000Z
 LOCATION:к.16 102 | ЕГУНОВА А.И.
 DTSTART:20261112T134000Z
 SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
-UID:9fd08173-903b-435f-af0f-6d099f942a5d@9fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261105T133000Z
-LOCATION:к.16 102 | ЕГУНОВА А.И.
-DTSTART:20261105T120000Z
-SUMMARY:Сети и телекоммуникации
-UID:0ed48172-55d5-42fa-91e1-6a87be9e88a5@0ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261029T133000Z
-LOCATION:к.16 102 | ЕГУНОВА А.И.
-DTSTART:20261029T120000Z
-SUMMARY:Сети и телекоммуникации
-UID:218976d9-3494-41f0-8de7-c1da054d7a63@2189.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
-DTEND:20261113T133000Z
-LOCATION:к.16 302 | ЛАРИН М.Г.
-DTSTART:20261113T120000Z
-SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
-UID:c7a9fa63-4d20-4a74-80b5-6f32ad6a9374@c7a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261105T081500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261105T064500Z
-SUMMARY:Системное программное обеспечение
-UID:0a2ddbc2-09b8-443b-9f1a-ef81b2a0b4cb@0a2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261030T151000Z
-LOCATION:к.16 401 | ЕГУНОВА А.И.
-DTSTART:20261030T134000Z
-SUMMARY:Сети и телекоммуникации
-UID:f503b9a2-0d8b-480c-a192-120c1e3b11d8@f503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261022T151000Z
-LOCATION:к.16 102 | ЕГУНОВА А.И.
-DTSTART:20261022T134000Z
-SUMMARY:Сети и телекоммуникации
-UID:edb68a12-4a4c-48ed-a88c-a72c4f91f6bc@edb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261110T115000Z
-LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
-DTSTART:20261110T102000Z
-SUMMARY:Экономика и управление
-UID:55631158-781c-4913-9710-5cf642a48ca3@5563.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
-DTEND:20261106T151000Z
-LOCATION:к.16 401 | ЕГУНОВА А.И.
-DTSTART:20261106T134000Z
-SUMMARY:Сети и телекоммуникации
-UID:e6cf5b0a-13c9-4e7c-afcb-5701906d1638@e6cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261022T081500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261022T064500Z
-SUMMARY:Системное программное обеспечение
-UID:730d9f2d-1641-4971-8e8d-f734a9e2254d@730d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
-DTEND:20261029T100500Z
-LOCATION:к.16 302 | САЙГИН А.А.
-DTSTART:20261029T083500Z
-SUMMARY:Программная инженерия
-UID:aee038a8-3476-418c-a289-19e0380ccda3@aee0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
-DTEND:20261030T133000Z
-LOCATION:к.16 302 | ЛАРИН М.Г.
-DTSTART:20261030T120000Z
-SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
-UID:377d19a6-eb65-430b-aea1-9f07f1ea6533@377d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
-DTEND:20261029T115000Z
-LOCATION:к.16 106 | ЛАДАНОВА Е.О.
-DTSTART:20261029T102000Z
-SUMMARY:Системное программное обеспечение
-UID:dcd502ac-149b-4321-a599-2713d261f2e9@dcd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
-DTEND:20261104T115000Z
-LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
-DTSTART:20261104T102000Z
-SUMMARY:Экономика и управление
-UID:e03fe6e1-3cac-43fd-9ce1-5cd31cbf6c08@e03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
-DTEND:20261111T133000Z
-LOCATION:к.16 102 | ТАЛАНОВ В.М.
-DTSTART:20261111T120000Z
-SUMMARY:Администрирование систем управления базами данных
-UID:b76f909f-982e-4ee3-bd31-80b6c4410bac@b76f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
-DTEND:20261026T100500Z
-LOCATION:к.16 401 | УСМАНОВ Б.В.
-DTSTART:20261026T083500Z
-SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
-UID:02986bd0-58f8-484d-96de-e089ed57e9f6@0298.org
+UID:6488560d-8edb-42bf-a20d-a3b56c95e0d5@6488.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
@@ -415,6 +31,390 @@ DTEND:20261021T115000Z
 LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
 DTSTART:20261021T102000Z
 SUMMARY:Экономика и управление
-UID:b1739dfa-f4b0-4a6c-9846-506b4c4e18ab@b173.org
+UID:1a7b6c20-268b-4e7c-9790-ba6be5fe70d0@1a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261022T081500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261022T064500Z
+SUMMARY:Системное программное обеспечение
+UID:a0d089d5-877c-459e-89b6-df854b349d35@a0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261030T151000Z
+LOCATION:к.16 401 | ЕГУНОВА А.И.
+DTSTART:20261030T134000Z
+SUMMARY:Сети и телекоммуникации
+UID:86601553-dc81-490d-bc53-2e4112528b82@8660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
+DTEND:20261023T133000Z
+LOCATION:к.16 102 | ЛАРИН М.Г.
+DTSTART:20261023T120000Z
+SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
+UID:5ccbdda4-5738-4111-b715-96d18c0dd589@5ccb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261111T133000Z
+LOCATION:к.16 102 | ТАЛАНОВ В.М.
+DTSTART:20261111T120000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:6a274abc-0461-40d0-9c87-9b4e69a3e83c@6a27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261021T133000Z
+LOCATION:к.16 102 | ТАЛАНОВ В.М.
+DTSTART:20261021T120000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:9c5079c5-74bb-4d2e-a3f9-7472b8a7f4a1@9c50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
+DTEND:20261109T100500Z
+LOCATION:к.16 401 | УСМАНОВ Б.В.
+DTSTART:20261109T083500Z
+SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
+UID:b1e5f614-ae56-490f-85db-e307544e4c90@b1e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
+DTEND:20261102T100500Z
+LOCATION:к.16 401 | УСМАНОВ Б.В.
+DTSTART:20261102T083500Z
+SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
+UID:29522f7a-9370-4506-9aef-19a925ee8c53@2952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261028T115000Z
+LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
+DTSTART:20261028T102000Z
+SUMMARY:Экономика и управление
+UID:35863c41-2eb1-48bd-84e2-349c2394d3e2@3586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261029T081500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261029T064500Z
+SUMMARY:Системное программное обеспечение
+UID:ebc48a85-9853-49d9-979f-77ce9a638935@ebc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261112T133000Z
+LOCATION:к.16 102 | ЕГУНОВА А.И.
+DTSTART:20261112T120000Z
+SUMMARY:Сети и телекоммуникации
+UID:f05c1dfd-3618-4c04-a6b9-159806ed517d@f05c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261029T133000Z
+LOCATION:к.16 102 | ЕГУНОВА А.И.
+DTSTART:20261029T120000Z
+SUMMARY:Сети и телекоммуникации
+UID:58c92be0-e55c-4896-9fa1-f164a71fd4d4@58c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261104T133000Z
+LOCATION:к.16 102 | ТАЛАНОВ В.М.
+DTSTART:20261104T120000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:a34abf7f-b51e-4ca3-a485-0a66dbdd1439@a34a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261105T151000Z
+LOCATION:к.16 102 | ЕГУНОВА А.И.
+DTSTART:20261105T134000Z
+SUMMARY:Сети и телекоммуникации
+UID:1600bf99-3b02-4f9a-928b-9e0536d3b8ab@1600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261110T115000Z
+LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
+DTSTART:20261110T102000Z
+SUMMARY:Экономика и управление
+UID:33934705-243f-4dac-9974-dfa6b53be497@3393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
+DTEND:20261026T100500Z
+LOCATION:к.16 401 | УСМАНОВ Б.В.
+DTSTART:20261026T083500Z
+SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
+UID:6eacb79f-3b1a-44ce-8972-e382483a299f@6eac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261104T115000Z
+LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
+DTSTART:20261104T102000Z
+SUMMARY:Экономика и управление
+UID:5bdb41d0-752f-423f-b607-8abdad898082@5bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
+DTEND:20261105T115000Z
+LOCATION:к.16 106 | ЛАДАНОВА Е.О.
+DTSTART:20261105T102000Z
+SUMMARY:Системное программное обеспечение
+UID:923a2e5f-ae4e-4125-b562-2af2c3a7f0e7@923a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
+DTEND:20261030T133000Z
+LOCATION:к.16 302 | ЛАРИН М.Г.
+DTSTART:20261030T120000Z
+SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
+UID:076cb7e4-9e45-4b7c-a920-dc246ce8faf3@076c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261112T081500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261112T064500Z
+SUMMARY:Системное программное обеспечение
+UID:96b94573-77fc-49ce-b187-34e2b4edc84b@96b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261028T151000Z
+LOCATION:к.16 502 | ТАЛАНОВ В.М.
+DTSTART:20261028T134000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:0c9e9f2f-c1f3-434a-a0ae-4637958fa3e5@0c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261021T151000Z
+LOCATION:к.16 502 | ТАЛАНОВ В.М.
+DTSTART:20261021T134000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:bf8888d0-81e5-40c3-828b-bd687da6353a@bf88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261105T133000Z
+LOCATION:к.16 102 | ЕГУНОВА А.И.
+DTSTART:20261105T120000Z
+SUMMARY:Сети и телекоммуникации
+UID:27509ccd-aed2-43b0-9ebb-db5a341f4f7d@2750.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261113T151000Z
+LOCATION:к.16 401 | ЕГУНОВА А.И.
+DTSTART:20261113T134000Z
+SUMMARY:Сети и телекоммуникации
+UID:d4c28731-cdc9-4f4b-8772-a4ebed68baee@d4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261103T115000Z
+LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
+DTSTART:20261103T102000Z
+SUMMARY:Экономика и управление
+UID:5a9d6668-1a6e-4833-b44f-17b81600ef55@5a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261105T100500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261105T083500Z
+SUMMARY:Программная инженерия
+UID:048bf792-13b8-4be7-a561-4d9fb5978cd0@048b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ФЕДОСИН СЕРГЕЙ АЛЕКСЕЕВИЧ\nГруппа: 441-2
+DTEND:20261027T133000Z
+LOCATION:к.16 104 | ФЕДОСИН С.А.
+DTSTART:20261027T120000Z
+SUMMARY:Программная инженерия
+UID:f1a46828-0ae1-4670-af49-5aeb39c7eff2@f1a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261022T133000Z
+LOCATION:к.16 102 | ЕГУНОВА А.И.
+DTSTART:20261022T120000Z
+SUMMARY:Сети и телекоммуникации
+UID:53f7053c-7be1-4e8b-825a-02980abdc732@53f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
+DTEND:20261023T115000Z
+LOCATION:к.16 302 | ЛАРИН М.Г.
+DTSTART:20261023T102000Z
+SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
+UID:215d228f-bb50-4026-bf8a-77db7c08d999@215d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ФЕДОСИН СЕРГЕЙ АЛЕКСЕЕВИЧ\nГруппа: 441-2
+DTEND:20261110T133000Z
+LOCATION:к.16 104 | ФЕДОСИН С.А.
+DTSTART:20261110T120000Z
+SUMMARY:Программная инженерия
+UID:b430a4f6-fb48-42db-a61b-ce1cd7e5ea7e@b430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
+DTEND:20261113T133000Z
+LOCATION:к.16 302 | ЛАРИН М.Г.
+DTSTART:20261113T120000Z
+SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
+UID:68e224dd-a3f3-4f9b-8f76-db2ef93b1d43@68e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261022T100500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261022T083500Z
+SUMMARY:Программная инженерия
+UID:70a29c2e-a6b9-42f0-839b-1b10f36a9822@70a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: УСМАНОВ БУЛАТ ВИТАЛЬЕВИЧ\nГруппа: 441-2
+DTEND:20261019T100500Z
+LOCATION:к.16 401 | УСМАНОВ Б.В.
+DTSTART:20261019T083500Z
+SUMMARY:Надежность\, эргономика и качество информационно-вычислительных систем
+UID:b8f55305-d3a0-4bdb-b424-c01f7bfbe2fa@b8f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
+DTEND:20261106T133000Z
+LOCATION:к.16 102 | ЛАРИН М.Г.
+DTSTART:20261106T120000Z
+SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
+UID:75d78fbf-89dd-4dd8-873d-bf797c7f9c6d@75d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
+DTEND:20261029T115000Z
+LOCATION:к.16 106 | ЛАДАНОВА Е.О.
+DTSTART:20261029T102000Z
+SUMMARY:Системное программное обеспечение
+UID:a659dca5-a328-471e-8535-adec9b1114be@a659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261029T100500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261029T083500Z
+SUMMARY:Программная инженерия
+UID:37baa4d9-245e-46af-a2e9-ff4a540a9eff@37ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261105T081500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261105T064500Z
+SUMMARY:Системное программное обеспечение
+UID:2deb94ec-75bf-4183-9ec7-939f320957d3@2deb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261022T151000Z
+LOCATION:к.16 102 | ЕГУНОВА А.И.
+DTSTART:20261022T134000Z
+SUMMARY:Сети и телекоммуникации
+UID:abe16d86-a10a-4a0d-b0ba-00d35df81390@abe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: САЙГИН АНДРЕЙ АЛЕКСАНДРОВИЧ\nГруппа: 441-2
+DTEND:20261112T100500Z
+LOCATION:к.16 302 | САЙГИН А.А.
+DTSTART:20261112T083500Z
+SUMMARY:Программная инженерия
+UID:83a89053-9558-4c73-84a8-e9bed7339da5@83a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
+DTEND:20261112T115000Z
+LOCATION:к.16 106 | ЛАДАНОВА Е.О.
+DTSTART:20261112T102000Z
+SUMMARY:Системное программное обеспечение
+UID:54446a72-9b8d-40d2-a59b-e43d01518c57@5444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261023T151000Z
+LOCATION:к.16 401 | ЕГУНОВА А.И.
+DTSTART:20261023T134000Z
+SUMMARY:Сети и телекоммуникации
+UID:fac9bd42-f405-4f46-8d9f-f7048fdda721@fac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЕГУНОВА АЛЛА ИВАНОВНА\nГруппа: 441-2
+DTEND:20261106T151000Z
+LOCATION:к.16 401 | ЕГУНОВА А.И.
+DTSTART:20261106T134000Z
+SUMMARY:Сети и телекоммуникации
+UID:226e7bbc-daa2-403e-bb41-34681705ff81@226e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261111T115000Z
+LOCATION:к.24 203 | ЛЯМАНОВА Е.А.
+DTSTART:20261111T102000Z
+SUMMARY:Экономика и управление
+UID:6f5fe8a9-e794-4d84-8787-0ef1cc91c39d@6f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАДАНОВА ЕКАТЕРИНА ОЛЕГОВНА\nГруппа: 441-2
+DTEND:20261022T115000Z
+LOCATION:к.16 106 | ЛАДАНОВА Е.О.
+DTSTART:20261022T102000Z
+SUMMARY:Системное программное обеспечение
+UID:73a7cadb-f762-405a-bcdf-2f084b78491d@73a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261027T115000Z
+LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
+DTSTART:20261027T102000Z
+SUMMARY:Экономика и управление
+UID:e224ebd5-5743-4758-966a-8697048bfbb2@e224.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261104T151000Z
+LOCATION:к.16 502 | ТАЛАНОВ В.М.
+DTSTART:20261104T134000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:b0ced3ea-de9e-4f34-9b90-bc6001f6ebad@b0ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛЯМАНОВА ЕЛЕНА АЛЕКСАНДРОВНА\nГруппа: 441-2
+DTEND:20261020T115000Z
+LOCATION:к.24 102 | ЛЯМАНОВА Е.А.
+DTSTART:20261020T102000Z
+SUMMARY:Экономика и управление
+UID:ebab2ee4-6c9c-42a3-b474-9951aa1fca3b@ebab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ЛАРИН МИХАИЛ ГЕННАДЬЕВИЧ\nГруппа: 441-2
+DTEND:20261106T115000Z
+LOCATION:к.16 302 | ЛАРИН М.Г.
+DTSTART:20261106T102000Z
+SUMMARY:Типовые корпоративные информационные системы (1С: Предприятие)
+UID:b46599e3-64b7-4938-b91b-ef913c64d000@b465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Преподаватель: ТАЛАНОВ ВИКТОР МИХАЙЛОВИЧ\nГруппа: 441-2
+DTEND:20261028T133000Z
+LOCATION:к.16 102 | ТАЛАНОВ В.М.
+DTSTART:20261028T120000Z
+SUMMARY:Администрирование систем управления базами данных
+UID:72f29c00-4f58-4c0e-90b4-64df737bfd80@72f2.org
 END:VEVENT
 END:VCALENDAR
