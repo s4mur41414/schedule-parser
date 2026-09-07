@@ -25,6 +25,9 @@ REFERENCE_TICK = 639237312000000000
 # Количество тиков .NET в одной неделе (7 дней * 24 ч * 60 мин * 60 сек * 10 000 000 тиков/сек)
 TICKS_PER_WEEK = 6048000000000
 
+# Сдвиг времени занятий в минутах (университет перенёс расписание на 30 минут вперед)
+TIME_SHIFT_MINUTES = 30
+
 MONTHS_RU = {
     'января': 1, 'февраля': 2, 'марта': 3, 'апреля': 4,
     'мая': 5, 'июня': 6, 'июля': 7, 'августа': 8,
@@ -79,7 +82,7 @@ def calculate_week_ticks(weeks_to_parse: int) -> List[int]:
 
     days_diff = (current_monday - REFERENCE_DATE).days
     
-    # ИСПРАВЛЕНИЕ: переводим дни в недели, чтобы корректно умножить на TICKS_PER_WEEK
+    # Переводим дни в недели, чтобы корректно умножить на TICKS_PER_WEEK
     weeks_diff = days_diff // 7 
     
     start_tick = REFERENCE_TICK + (weeks_diff * TICKS_PER_WEEK)
@@ -175,6 +178,11 @@ def parse_week(html_content: str, current_year: int, current_month: int, group_n
             try:
                 start_dt = datetime.combine(current_date, datetime.strptime(start_time_str, "%H:%M").time())
                 end_dt = datetime.combine(current_date, datetime.strptime(end_time_str, "%H:%M").time())
+                
+                # ИСПРАВЛЕНИЕ: Сдвиг времени на 30 минут вперед
+                start_dt += timedelta(minutes=TIME_SHIFT_MINUTES)
+                end_dt += timedelta(minutes=TIME_SHIFT_MINUTES)
+                
             except ValueError:
                 continue
 
